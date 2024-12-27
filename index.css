@@ -1,0 +1,12 @@
+/* Write your code here. */
+.greeting {
+  background-color: #0f172a;
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  align-self: center;
+}
+
+.headingClass {
+  color: #f8fafc;
+}
